@@ -14,6 +14,7 @@ This project aims to predict credit card approval decisions using machine learni
 - [Logistic Regression Model](#logistic-regression-model)
 - [Evaluating Performance](#evaluating-performance)
 - [Hyperparameter Tuning](#hyperparameter-tuning)
+- [Visualizations](#Visualizations)
 
 ## Download Data
 
