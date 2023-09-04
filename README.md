@@ -61,4 +61,3 @@ This notebook includes several visualizations to better understand the model's p
 - **Confusion Matrix**: The confusion matrix heatmap illustrates the model's performance in classifying credit card approvals.
 - **ROC Curve**: The ROC curve showcases the model's trade-off between true positive rate and false positive rate.
 
-[Add descriptions and interpretations for other visualizations here if applicable.]
