@@ -52,3 +52,12 @@ Performance is assessed using a confusion matrix to measure the model's accuracy
 ## Hyperparameter Tuning
 
 GridSearchCV is used to perform hyperparameter tuning for the Logistic Regression model. The best hyperparameters are selected, and the model's accuracy is assessed again.
+
+## Visualizations
+
+This notebook includes several visualizations to better understand the model's performance and the data:
+
+- **Confusion Matrix**: The confusion matrix heatmap illustrates the model's performance in classifying credit card approvals.
+- **ROC Curve**: The ROC curve showcases the model's trade-off between true positive rate and false positive rate.
+
+[Add descriptions and interpretations for other visualizations here if applicable.]
